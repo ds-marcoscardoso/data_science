@@ -17,5 +17,6 @@
 ## Projetos:
 
 * **Análise do Titanic:** https://bit.ly
+* **Análise de suicídios no Brasil:** https://bit.ly
 
 ---
