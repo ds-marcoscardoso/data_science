@@ -10,8 +10,8 @@
 
 **Links:**
 * [Blog](http://)
-* [LinkedIn](https://www.linkedin.com/in/)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/mrmarcoscardoso)
+* [Medium](https://www.medium.com/@mrmarcoscardoso)
 
 
 ## Projetos:
