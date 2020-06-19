@@ -32,7 +32,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Meus projetos:
 
 
-* **Analisando dados do Airbnb:** [bit.ly/30V4Eq8](bit.ly/30V4Eq8)
+* **Analisando dados do Airbnb:** [San Diego](https://github.com/mrmarcoscardoso/data_science/blob/master/M1_8_Analisando_os_Dados_do_Airbnb_San_Diego%2C_USA.ipynb)
 <!--
 * **Analisando os crimes do Rio de Janeiro:** https://bit.ly
 * **Estudo de caso da COVID-19:** https://bit.ly
