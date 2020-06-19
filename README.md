@@ -31,8 +31,9 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 ## Meus projetos:
 
+
+* **Analisando dados do Airbnb:** bit.ly/2BiI8Na
 <!--
-* **Analisando dados do Airbnb:** https://bit.ly
 * **Analisando os crimes do Rio de Janeiro:** https://bit.ly
 * **Estudo de caso da COVID-19:** https://bit.ly
 * **Análise do Titanic:** https://bit.ly
