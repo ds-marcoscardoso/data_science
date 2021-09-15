@@ -25,7 +25,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 <!--
 * [Blog](http://)
 -->
-* [LinkedIn](https://www.linkedin.com/in/mrmarcoscardoso)
+* [LinkedIn](https://www.linkedin.com/in/mr.marcoscardoso)
 * [Medium](https://www.medium.com/@mr.marcoscardoso)
 
 
